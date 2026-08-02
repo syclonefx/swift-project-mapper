@@ -110,4 +110,4 @@ The project map must remain concise, accurate, and useful for locating code. Do 
 
 ## License
 
-This project is intended to be released under the [MIT License](https://opensource.org/license/mit). Add a `LICENSE` file containing the MIT license text before publishing so reuse terms are explicit.
+This project is intended to be released under the [MIT License](https://opensource.org/license/mit). 
